@@ -401,10 +401,10 @@ a:focus {
 
 #blue {
 	background: #e81e25;
-	margin-top: 60px;
-	margin-bottom: 60px;
-	padding-top: 25px;
-	padding-bottom: 25px;
+	margin-top: 70px;
+	margin-bottom: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
 
 #blue h3 {
